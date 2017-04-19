@@ -1,0 +1,14 @@
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.exe.config
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.csprojResolveAssemblyReference.cache
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Form1.resources
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown_Timer.Properties.Resources.resources
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.GenerateResource.Cache
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.exe
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\bin\Debug\Shutdown Timer.pdb
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.exe
+d:\users\christos\documents\visual studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.pdb
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Shutdown Timer\Shutdown Timer\bin\Debug\Interop.WMPLib.dll
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Shutdown Timer\Shutdown Timer\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Interop.WMPLib.dll
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\Christos\Documents\Visual Studio 2013\Projects\Shutdown Timer\Shutdown Timer\obj\Debug\Shutdown Timer.csproj.ResolveComReference.cache
