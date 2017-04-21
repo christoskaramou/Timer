@@ -1,5 +1,5 @@
 # Timer
-.NET windows form app like stopwatch
+.NET windows form app like stopwatch to do tasks
 
 Timer is a VS project
 
