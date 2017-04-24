@@ -7,6 +7,7 @@ Debugged and Released at the debug and release folders
 
 *the Shutdown tab timer cant be less than 10 seconds, for safety
 
+```
 ** You can run it via cmd prompt, the arguments are used without commas:
    pathOfTimerexe hours min sec comboSelection fileToRun preventSleepMode
 
