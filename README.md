@@ -15,11 +15,11 @@ Debugged and Released at the debug and release folders
    -fileToRun        is the path of the file you want to run             ("" is the auto value)
    -preventSleepMode (true or false)                                     (true is the autovalue)
    
-** examlple 1 C:\Users\Christos\Desktop>Timer.exe 1
+** examlple 1:  C:\Users\Christos\Desktop>Timer.exe 1
    this will start the Timer.exe with 1 hour to shutdown because all the other arguments are autovalued
    
-** examlple 2 C:\Users\Christos\Desktop>Timer.exe 0 0 10 1
+** examlple 2:  C:\Users\Christos\Desktop>Timer.exe 0 0 10 1
    this will start the Timer.exe with 0 hours, 0 mins, 10 sec and with alarm selected (the rest are autovalued)
    
-** examlple 3 C:\Users\Christos\Desktop>Timer.exe 12 0 0 2 "D:\users\Christos\Downloads\Picture.png" true
+** examlple 3:  C:\Users\Christos\Desktop>Timer.exe 12 0 0 2 "D:\users\Christos\Downloads\Picture.png" true
    this will run Timer.exe with 12 hours, 0 mins, 10 sec left and with ChooseFile selected to run the Picture.png
