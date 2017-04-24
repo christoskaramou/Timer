@@ -22,4 +22,4 @@ Debugged and Released at the debug and release folders
    this will start the Timer.exe with 0 hours, 0 mins, 10 sec and with alarm selected (the rest are autovalued)
    
 ** examlple 3:  C:\Users\Christos\Desktop>Timer.exe 12 0 0 2 "D:\users\Christos\Downloads\Picture.png" true
-   this will run Timer.exe with 12 hours, 0 mins, 10 sec left and with ChooseFile selected to run the Picture.png
+   this will run Timer.exe with 12 hours left and with ChooseFile selected to run the Picture.png
